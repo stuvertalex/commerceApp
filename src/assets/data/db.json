@@ -1,0 +1,83 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "Men's Casual Solid Lycra Shirt",
+        "categoryId": 2,
+        "description": "Latest Men’s Half Sleeves Shirt",
+        "price": "1000",
+        "is_available": true,
+        "productImg": "https://i.postimg.cc/NFBwnjk3/shirt-no2.jpg",
+        "rating": 4.4,
+        "review": 150,
+        "vendor_name": "Malabar Textiles",
+        "warranty": 1
+      },
+      
+      {
+        "id": "2",
+        "productName": "Men's Formals Shirt",
+        "categoryId": "2",
+        "description": "L Half Sleeves Shirt",
+        "price": "700",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/NFBwnjk3/shirt-no2.jpg",
+        "rating": "4.7",
+        "review": "250",
+        "vendor_name": "Malabar texstyle",
+        "warranty": 2
+      },
+      {
+        "id": "2",
+        "productName": "Men's Formals Shirt",
+        "categoryId": "2",
+        "description": "L Half Sleeves Shirt",
+        "price": "700",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/NFBwnjk3/shirt-no2.jpg",
+        "rating": "4.7",
+        "review": "250",
+        "vendor_name": "Malabar texstyle",
+        "warranty": 2
+      },
+      {
+        "id": "2",
+        "productName": "Men's Formals Shirt",
+        "categoryId": "2",
+        "description": "L Half Sleeves Shirt",
+        "price": "700",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/NFBwnjk3/shirt-no2.jpg",
+        "rating": "4.7",
+        "review": "250",
+        "vendor_name": "Malabar texstyle",
+        "warranty": 2
+      },
+      {
+        "id": "2",
+        "productName": "Men's Formals Shirt",
+        "categoryId": "2",
+        "description": "L Half Sleeves Shirt",
+        "price": "700",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/NFBwnjk3/shirt-no2.jpg",
+        "rating": "4.7",
+        "review": "250",
+        "vendor_name": "Malabar texstyle",
+        "warranty": 2
+      },
+      {
+        "id": "2",
+        "productName": "Men's Formals Shirt",
+        "categoryId": "2",
+        "description": "L Half Sleeves Shirt",
+        "price": "700",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/NFBwnjk3/shirt-no2.jpg",
+        "rating": "4.7",
+        "review": "250",
+        "vendor_name": "Malabar texstyle",
+        "warranty": 2
+      }
+    ]
+  }
